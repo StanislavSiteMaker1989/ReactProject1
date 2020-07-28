@@ -1,0 +1,30 @@
+.content {
+    grid-area: c;
+    display: grid;
+    grid-template-columns: 3fr  9fr;
+}
+
+.dialogsItems{
+    color: white;
+    text-decoration: none;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.peopleDialogs{
+    padding: 20px;
+}
+
+.message{
+    color: black;
+}
+.peopleDialogs .active{
+    color: #0dffed;
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    color: white;
+    text-decoration: none;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}

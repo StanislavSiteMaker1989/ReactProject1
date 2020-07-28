@@ -1,0 +1,16 @@
+.nav {
+    grid-area: n;
+
+
+    padding: 20px;
+}
+.item a{
+    color: white;
+    text-decoration: none;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+.item a.active{
+    color: crimson;
+}
+
